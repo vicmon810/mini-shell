@@ -1,10 +1,10 @@
-# This program is a mini shell progress, only contain following functions: 
+# This program is a mini shell progress, only contain following functions: <br>
 
-cd : select file 
-help: list all function in this shell
-exit: exit shell 
+cd : select file<br> 
+help: list all function in this shell<br>
+exit: exit shell <br>
 
-Example: 
+Example: <br>
 ![example](miniShell.gif)
 
 ### Credit
